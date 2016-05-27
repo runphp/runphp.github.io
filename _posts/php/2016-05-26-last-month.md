@@ -10,4 +10,4 @@ $day = date('d')-1;
 echo strtotime(date("Y-m-d", strtotime('-1 month '.-$day.' day')));
 echo "\n";
 echo strtotime(date("Y-m-d", strtotime(-$day.' day')));
-{% highlight php %}
+{% endhighlight %}
