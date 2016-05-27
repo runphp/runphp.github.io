@@ -4,3 +4,4 @@ _site
 .settings
 .buildpath
 .project
+/serve
