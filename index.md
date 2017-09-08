@@ -1,4 +1,4 @@
 ## Welcome to My home Pages
 
-[blog](blog.runphp.net)
+[blog](http://blog.runphp.net)
 
