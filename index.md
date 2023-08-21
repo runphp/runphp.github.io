@@ -1,4 +1,11 @@
-## Welcome to My home Pages
+---
+layout: default
+title: "runphp"
+---
 
-[blog](//blog.runphp.net)
+## You're ready to go!
 
+
+[程序员阿辉](https://blog.runphp.net)
+
+Start developing your Jekyll website.
